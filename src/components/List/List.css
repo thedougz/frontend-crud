@@ -1,0 +1,28 @@
+.usersList{
+    width: 70%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: white;
+    margin-top: 30px;
+    margin-left: 15%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h3{
+    margin-top: 10px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+.buttons{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    margin-top: 30px;
+}
